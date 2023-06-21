@@ -11,5 +11,5 @@ REMAINING USEFUL-LIFE PREDICTION OF MOTOR USING MACHINE LEARNING
 2.SOURCECODDE
 
 3.RESULT
-
+https://github.com/AnanthashayanS/RUL-using-ML/blob/main/RUL-result.jpg
 ///
